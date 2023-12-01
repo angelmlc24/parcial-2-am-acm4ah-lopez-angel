@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PrimerParcial</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="Elite_Runners">Elite Runners</string>
+    <string name="boton_login">Iniciar Sesión</string>
+    <string name="boton_registro">Registrarse</string>
+    <string name="boton_inicio">Página principal</string>
+    <string name="Siguenos">¡Síguenos en nuestras redes!</string>
+    <string name="Slogan">¡Actitud en cada paso!</string>
+
+
+    <!-- Strings de inicio -->
+    <string name="descripcion_Aeroflex">Zapato deportivo. Modelo Aeroflex</string>
+    <string name="descripcion_SkyHigh">Zapato deportivo. Modelo SkyHigh</string>
+    <string name="descripcion_BreezeEase">Zapato deportivo. Modelo BreezeEase</string>
+    <string name="descripcion_SunBeam">Zapato deportivo. Modelo SunBeam</string>
+    <string name="descripcion_UrbanFlex">Zapato deportivo. Modelo UrbanFlex</string>
+    <string name="descripcion_SkyWalker">Zapato deportivo. Modelo SkyWalker</string>
+    <string name="descripcion_StylePro">Zapato deportivo. Modelo StylePro</string>
+    <string name="descripcion_BlazeTech">Zapato deportivo. Modelo BlazeTech</string>
+    <string name="descripcion_Xcelerator">Zapato deportivo. Modelo Xcelerator</string>
+    <string name="descripcion_AirStrike">Zapato deportivo. Modelo AirStrike</string>
+
+    <!-- Strings de Registro -->
+    <string name="boton_volver">Volver</string>
+    <string name="titulo_registro">Registro</string>
+    <string name="hint_nuevo_usuario">Nuevo nombre de usuario</string>
+    <string name="hint_nueva_contrasena">Nueva contraseña</string>
+    <string name="boton_registrar">Registrar</string>
+
+    <!-- Strings de imagenes main-->
+        <string name="descripcion_imagen_ugu">Logo de la marca</string>
+        <string name="descripcion_imagen_instagram">Instagram</string>
+        <string name="descripcion_imagen_twitter">Twitter</string>
+        <string name="descripcion_imagen_facebook">Facebook</string>
+
+
+</resources>
